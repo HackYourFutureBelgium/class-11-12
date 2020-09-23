@@ -301,7 +301,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./lib/avatars/students/rago89.jpeg' height="150px" width="150px" alt='rago89 github photo' /></td>
-  <td> <h3 display="inline"><a href="https://rago89.github.io/rago89/index.html" target="_blank">Rafael García</a></h3>
+  <td> <h3 display="inline"><a href="https://rago89.github.io" target="_blank">Rafael García</a></h3>
     <ul>
         <li><a href="https://github.com/rago89"  target="_blank">rago89</a></li>
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Arago89"  target="_blank">author</a></code></li>

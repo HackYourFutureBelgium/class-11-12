@@ -9,6 +9,7 @@ assignees: ''
 
 ## Suggested Study
 <!-- create a checklist from the module repo README -->
+<!-- one check-box per topic is enough, no need to list each link -->
 
 ## Exercises
 <!-- create a checklist from the module repo README

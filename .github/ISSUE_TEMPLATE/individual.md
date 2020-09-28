@@ -13,7 +13,7 @@ assignees: ''
 
 ## Exercises
 <!-- create a checklist from the module repo README
-  link to your exercise rerpo forks -->
+  link to your exercise repo forks -->
 
 ---
 

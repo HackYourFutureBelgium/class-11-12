@@ -505,6 +505,9 @@ The more you participate and become part of the HYF community, the more people a
 
 ### Thursday
 
+- Prepare your individual issue for next week
+  - Create a new section if it's still the same module
+  - Create a new issue if a new module is beginning
 - Begin prep work for Sunday
 - Individual study
 
@@ -513,7 +516,7 @@ The more you participate and become part of the HYF community, the more people a
 - Weekly project MVP
   - Stop adding new features
   - Make sure what's there works
-  - Move your issue to READY FOR REVieW
+  - Move your issue to READY FOR REVIEW
 - Individual study
 
 ### Saturday

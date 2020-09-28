@@ -9,9 +9,9 @@ Slack is great for chatting but links and good explanations can easily get lost 
 <!-- BEGIN LINKS -->
 
 - [Modules](#modules)
+- [Typical Week](#typical-week)
 - [Students](#students)
 - [Coaches](#coaches)
-- [Typical Week](#typical-week)
 - [Issues](https://github.com/HackYourFutureBelgium/class-11-12/issues)
     - [`help-wanted`](https://github.com/HackYourFutureBelgium/class-11-12/issues?q=label%3Ahelp-wanted)
     - [`roll-call`](https://github.com/HackYourFutureBelgium/class-11-12/issues?q=label%3Aroll-call)
@@ -69,6 +69,65 @@ Slack is great for chatting but links and good explanations can easily get lost 
 
 [TOP](#class-11-12)
 <!-- END MODULES -->
+
+---
+
+## Typical Week
+
+Throughout you HYF course and you overall career as a programmer, you will ‘control your own fate’. 30 hours of study is just the minimum we suggest.
+
+The more you know and the harder you work, the faster you will find yourself in a job you love.
+
+The more you participate and become part of the HYF community, the more people are going to be willing to help you out.
+
+### Sunday
+
+- 11h - 12h: `roll-call` and review
+- 12h - 16h: Class
+  1. Review
+  2. Presentation 1
+  3. Group work
+  4. Break
+  5. Presentation 2
+  6. Group work
+  7. Homework Launch
+
+### Monday
+
+- Plan the week's project
+- Set up the project repository
+- Individual study
+
+### Tuesday
+
+- Begin developing the project
+- Individual study
+
+### Wendesday
+
+- `individual` check-in
+- Class review call
+- Individual study
+
+### Thursday
+
+- Begin prep work for Sunday
+- Individual study
+
+### Friday
+
+- Weekly project MVP
+  - Stop adding new features
+  - Make sure what's there works
+  - Move your issue to READY FOR REVieW
+- Individual study
+
+### Saturday
+
+- Family, friends, rest & play
+- Individual study (optional ;)
+
+[TOP](#class-11-12)
 
 ---
 
@@ -464,61 +523,3 @@ Unmesh    </h3>
 [TOP](#class-11-12)
 <!-- END COACHES -->
 
----
-
-## Typical Week
-
-Throughout you HYF course and you overall career as a programmer, you will ‘control your own fate’. 30 hours of study is just the minimum we suggest.
-
-The more you know and the harder you work, the faster you will find yourself in a job you love.
-
-The more you participate and become part of the HYF community, the more people are going to be willing to help you out.
-
-### Sunday
-
-- 11h - 12h: `roll-call` and review
-- 12h - 16h: Class
-  1. Review
-  2. Presentation 1
-  3. Group work
-  4. Break
-  5. Presentation 2
-  6. Group work
-  7. Homework Launch
-
-### Monday
-
-- Plan the week's project
-- Set up the project repository
-- Individual study
-
-### Tuesday
-
-- Begin developing the project
-- Individual study
-
-### Wendesday
-
-- `individual` check-in
-- Class review call
-- Individual study
-
-### Thursday
-
-- Begin prep work for Sunday
-- Individual study
-
-### Friday
-
-- Weekly project MVP
-  - Stop adding new features
-  - Make sure what's there works
-  - Move your issue to READY FOR REVieW
-- Individual study
-
-### Saturday
-
-- Family, friends, rest & play
-- Individual study (optional ;)
-
-[TOP](#class-11-12)

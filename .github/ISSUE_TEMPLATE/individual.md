@@ -24,9 +24,6 @@ assignees: ''
 <!-- one check-box per topic is enough, no need to list each link -->
 <!-- check off a topic when you are confident applying the concept in your projects -->
 
-## Exercises
-<!-- create a checklist from the module repo README
-  link to your exercise repo forks -->
 
 ---
 

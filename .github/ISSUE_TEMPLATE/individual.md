@@ -34,19 +34,22 @@ assignees: ''
 - [ ] Sunday Prep
 <!-- confirm that you have understood the Sunday lesson -->
 - [ ] Sunday Class
+
+### Project
 <!-- link to your week's project -->
 <!-- if it's a group project, link to the group issue -->
 <!-- if it's an individual project, copy-paste the checklist right here -->
 
 
-<!-- the next 4 headers are for Wednesday Check-In -->
-### Progress
+### Check-In
+<!-- the next 4 titles are for Wednesday Check-In -->
+__Progress__
 
-### Blocked
+__Blocked__
 
-### Next Steps
+__Next Steps__
 
-### Tip(s) of the week
+__Tip(s) of the week__
 
 ---
 

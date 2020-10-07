@@ -23,6 +23,10 @@ Slack is great for chatting but links and good explanations can easily get lost 
 ## HYF Links
 
 - [Guidebook](https://home.hackyourfuture.be/students)
+  - HYF Routines
+  - Asking for Help
+  - Individual Assignments
+  - Group Projects
 - [Curriculum](https://home.hackyourfuture.be/curriculum)
 - [Study](https://study.hackyourfuture.be)
 - [GitHub](https://github.com/hackyourfuturebelgium)
@@ -305,16 +309,6 @@ The more you participate and become part of the HYF community, the more people a
         <li><a href="https://github.com/krakla"  target="_blank">krakla</a></li>
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Akrakla"  target="_blank">author</a></code></li>
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Akrakla"  target="_blank">assignee</a></code></li>
-    </ul>
-  </td>
-</tr></table> </li>
-<li><table> <tr>
-  <td><img src='./lib/avatars/students/sashinskaya.jpeg' height="150px" width="150px" alt='sashinskaya github photo' /></td>
-  <td> <h3 display="inline"><a href="https://sashinskaya.github.io" target="_blank">Maria</a></h3>
-    <ul>
-        <li><a href="https://github.com/sashinskaya"  target="_blank">sashinskaya</a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Asashinskaya"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Asashinskaya"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> </li>

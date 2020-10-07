@@ -1,5 +1,5 @@
 ---
-name: I am Stuck
+name: I Need Help
 about: A template issue for when you're stuck.  This template has a lot of sections
   to get you thinking about your problem, you don't need to fill in every one of them
 title: ''

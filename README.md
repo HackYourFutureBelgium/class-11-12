@@ -323,16 +323,6 @@ The more you participate and become part of the HYF community, the more people a
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/Moon-NguyetDuong.jpeg' height="150px" width="150px" alt='Moon-NguyetDuong github photo' /></td>
-  <td> <h3 display="inline"><a href="https://Moon-NguyetDuong.github.io" target="_blank">Moon</a></h3>
-    <ul>
-        <li><a href="https://github.com/Moon-NguyetDuong"  target="_blank">Moon-NguyetDuong</a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3AMoon-NguyetDuong"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3AMoon-NguyetDuong"  target="_blank">assignee</a></code></li>
-    </ul>
-  </td>
-</tr></table> </li>
-<li><table> <tr>
   <td><img src='./lib/avatars/students/peymanshahmarimikaeeldarehsi.jpeg' height="150px" width="150px" alt='peymanshahmarimikaeeldarehsi github photo' /></td>
   <td> <h3 display="inline"><a href="https://peymanshahmarimikaeeldarehsi.github.io" target="_blank">Peyman</a></h3>
     <ul>

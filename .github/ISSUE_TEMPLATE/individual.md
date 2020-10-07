@@ -6,8 +6,17 @@
   - wednesday check-in
   at the end of the module, you will fill in the Retrospective section 
 -->
-## Suggested Study
 
+---
+name: individual
+about: A template for individual module issues
+title: 'Your Name: Module Name'
+labels: individual
+assignees: ''
+
+---
+
+## Suggested Study
 <!-- create a checklist from the module repo README -->
 <!-- one check-box per topic is enough, no need to list each link -->
 

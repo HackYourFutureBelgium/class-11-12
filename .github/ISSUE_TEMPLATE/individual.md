@@ -16,6 +16,9 @@ assignees: ''
   at the end of the module, you will fill in the Retrospective section 
 -->
 
+<!-- include a link to this module's repository -->
+> [module repository](_) 
+
 ## Suggested Study
 <!-- create a checklist from the module repo README -->
 <!-- one check-box per topic is enough, no need to list each link -->

@@ -7,13 +7,23 @@ assignees: ''
 
 ---
 
+<!-- you will create ONE individual issue per module 
+  at the beginning of the module you will fill in Suggested Study & Exercises 
+  each week of the module you will add a new section to this ONE issue including
+  - check-boxes for prep work and class work
+  - checklist for the weekly project (or link to group issue)
+  - wednesday check-in
+  at the end of the module, you will fill in the Retrospective section 
+-->
+
+<!-- include a link to this module's repository -->
+> [module repository](_) 
+
 ## Suggested Study
 <!-- create a checklist from the module repo README -->
 <!-- one check-box per topic is enough, no need to list each link -->
+<!-- check off a topic when you are confident applying the concept in your projects -->
 
-## Exercises
-<!-- create a checklist from the module repo README
-  link to your exercise repo forks -->
 
 ---
 
@@ -24,19 +34,22 @@ assignees: ''
 - [ ] Sunday Prep
 <!-- confirm that you have understood the Sunday lesson -->
 - [ ] Sunday Class
+
+### Project
 <!-- link to your week's project -->
 <!-- if it's a group project, link to the group issue -->
 <!-- if it's an individual project, copy-paste the checklist right here -->
 
 
-<!-- the next 4 headers are for Wednesday Check-In -->
-### Progress
+### Check-In
+<!-- the next 4 titles are for Wednesday Check-In -->
+__Progress__
 
-### Blocked
+__Blocked__
 
-### Next Steps
+__Next Steps__
 
-### Tip(s) of the week
+__Tip(s) of the week__
 
 ---
 

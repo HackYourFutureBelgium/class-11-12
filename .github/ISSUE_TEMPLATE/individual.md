@@ -36,9 +36,13 @@ assignees: ''
 - [ ] Sunday Class
 
 ### Project
-<!-- link to your week's project -->
-<!-- if it's a group project, link to the group issue -->
-<!-- if it's an individual project, copy-paste the checklist right here -->
+<!-- link to your week's project 
+if it's a group project
+  link to the group issue
+if it's an individual project
+  copy-paste the checklist from the module README 
+  fill in the checklist with your username and repo name
+-->
 
 
 ### Check-In

@@ -202,16 +202,6 @@ The more you participate and become part of the HYF community, the more people a
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/Cyngyz.jpeg' height="150px" width="150px" alt='Cyngyz github photo' /></td>
-  <td> <h3 display="inline"><a href="https://Cyngyz.github.io" target="_blank">Lo</a></h3>
-    <ul>
-        <li><a href="https://github.com/Cyngyz"  target="_blank">Cyngyz</a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3ACyngyz"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3ACyngyz"  target="_blank">assignee</a></code></li>
-    </ul>
-  </td>
-</tr></table> </li>
-<li><table> <tr>
   <td><img src='./lib/avatars/students/Divyasree345.jpeg' height="150px" width="150px" alt='Divyasree345 github photo' /></td>
   <td> <h3 display="inline"><a href="https://Divyasree345.github.io" target="_blank">Divya Sree</a></h3>
     <ul>
@@ -298,6 +288,16 @@ The more you participate and become part of the HYF community, the more people a
         <li><a href="https://github.com/lauraramirez220612"  target="_blank">lauraramirez220612</a></li>
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Alauraramirez220612"  target="_blank">author</a></code></li>
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Alauraramirez220612"  target="_blank">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> </li>
+<li><table> <tr>
+  <td><img src='./lib/avatars/students/Cyngyz.jpeg' height="150px" width="150px" alt='Cyngyz github photo' /></td>
+  <td> <h3 display="inline"><a href="https://Cyngyz.github.io" target="_blank">Lo</a></h3>
+    <ul>
+        <li><a href="https://github.com/Cyngyz"  target="_blank">Cyngyz</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3ACyngyz"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3ACyngyz"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> </li>

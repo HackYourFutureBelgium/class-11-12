@@ -202,12 +202,12 @@ The more you participate and become part of the HYF community, the more people a
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/cyngyz.jpeg' height="150px" width="150px" alt='cyngyz github photo' /></td>
-  <td> <h3 display="inline"><a href="https://cyngyz.github.io" target="_blank">Cyngyz</a></h3>
+  <td><img src='./lib/avatars/students/Cyngyz.jpeg' height="150px" width="150px" alt='Cyngyz github photo' /></td>
+  <td> <h3 display="inline"><a href="https://Cyngyz.github.io" target="_blank">Lo</a></h3>
     <ul>
-        <li><a href="https://github.com/cyngyz"  target="_blank">cyngyz</a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Acyngyz"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Acyngyz"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/Cyngyz"  target="_blank">Cyngyz</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3ACyngyz"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3ACyngyz"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> </li>

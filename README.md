@@ -11,7 +11,6 @@ Slack is great for chatting but links and good explanations can easily get lost 
 - [Modules](#modules)
 - [Students](#students)
 - [Coaches](#coaches)
-- [Typical Week](#typical-week)
 - [Issues](https://github.com/HackYourFutureBelgium/class-11-12/issues)
     - [`help-wanted`](https://github.com/HackYourFutureBelgium/class-11-12/issues?q=is%3Aopen+label%3Ahelp-wanted)
     - [`roll-call`](https://github.com/HackYourFutureBelgium/class-11-12/issues?q=label%3Aroll-call)
@@ -47,7 +46,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
 <li><h3><a href="https://github.com/HackYourFutureBelgium/incremental-development" target="_blank">incremental-development</a></h3>
   <ul><li><p>    3 weeks    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=is%3Aopen+milestone%3Aincremental-development+label%3Aindividual" target="_blank"><code>individual</code> issues</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/2" target="_blank"><code>group</code> projects</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/2" target="_blank">all issues</a>     | <a href="https://github.com/HackYourFutureBelgium/incremental-development#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
 <li><h3><a href="https://github.com/HackYourFutureBelgium/ux-ui-design" target="_blank">ux-ui-design</a></h3>
-  <ul><li><p>    1 week    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=is%3Aopen+milestone%3Aui-ux-design+label%3Aindividual" target="_blank"><code>individual</code> issues</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/3" target="_blank"><code>group</code> projects</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/3" target="_blank">all issues</a>     | <a href="https://github.com/HackYourFutureBelgium/ui-ux-design#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
+  <ul><li><p>    1 week    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=is%3Aopen+milestone%3Aux-ui-design+label%3Aindividual" target="_blank"><code>individual</code> issues</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/3" target="_blank"><code>group</code> projects</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/3" target="_blank">all issues</a>     | <a href="https://github.com/HackYourFutureBelgium/ux-ui-design#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
 <li><h3><a href="https://github.com/HackYourFutureBelgium/debugging" target="_blank">debugging</a></h3>
   <ul><li><p>    2 weeks    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=is%3Aopen+milestone%3Adebugging+label%3Aindividual" target="_blank"><code>individual</code> issues</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/4" target="_blank"><code>group</code> projects</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/4" target="_blank">all issues</a>     | <a href="https://github.com/HackYourFutureBelgium/debugging#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
 <li><h3><a href="https://github.com/HackYourFutureBelgium/problem-solving" target="_blank">problem-solving</a></h3>
@@ -203,12 +202,12 @@ The more you participate and become part of the HYF community, the more people a
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/maniiasov.jpeg' height="150px" width="150px" alt='maniiasov github photo' /></td>
-  <td> <h3 display="inline"><a href="https://maniiasov.github.io" target="_blank">Chyngyz</a></h3>
+  <td><img src='./lib/avatars/students/cyngyz.jpeg' height="150px" width="150px" alt='cyngyz github photo' /></td>
+  <td> <h3 display="inline"><a href="https://cyngyz.github.io" target="_blank">Cyngyz</a></h3>
     <ul>
-        <li><a href="https://github.com/maniiasov"  target="_blank">maniiasov</a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Amaniiasov"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Amaniiasov"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/cyngyz"  target="_blank">cyngyz</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Acyngyz"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Acyngyz"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> </li>
@@ -319,16 +318,6 @@ The more you participate and become part of the HYF community, the more people a
         <li><a href="https://github.com/mariebelyse"  target="_blank">mariebelyse</a></li>
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Amariebelyse"  target="_blank">author</a></code></li>
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Amariebelyse"  target="_blank">assignee</a></code></li>
-    </ul>
-  </td>
-</tr></table> </li>
-<li><table> <tr>
-  <td><img src='./lib/avatars/students/Moon-NguyetDuong.jpeg' height="150px" width="150px" alt='Moon-NguyetDuong github photo' /></td>
-  <td> <h3 display="inline"><a href="https://Moon-NguyetDuong.github.io" target="_blank">Moon</a></h3>
-    <ul>
-        <li><a href="https://github.com/Moon-NguyetDuong"  target="_blank">Moon-NguyetDuong</a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3AMoon-NguyetDuong"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3AMoon-NguyetDuong"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> </li>

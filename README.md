@@ -9,6 +9,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
 <!-- BEGIN LINKS -->
 
 - [Modules](#modules)
+- [Typical Week](#typical-week)
 - [Students](#students)
 - [Coaches](#coaches)
 - [Issues](https://github.com/HackYourFutureBelgium/class-11-12/issues)

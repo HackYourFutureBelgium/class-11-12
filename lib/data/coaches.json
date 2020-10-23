@@ -4,7 +4,8 @@
     "userName": "nawatend",
     "homePage": "https://www.nawangtendar.be",
     "modules": [
-      "Working with Code"
+      "Working with Code",
+      "Debugging"
     ]
   },
   {
@@ -40,7 +41,8 @@
     "homePage": "https://www.behance.net/mariedevos",
     "modules": [
       "Working with Code",
-      "Incremental Development"
+      "Incremental Development",
+      "UX/UI Design"
     ]
   },
   {
@@ -57,6 +59,22 @@
     "homePage": "https://kevintss.github.io/",
     "modules": [
       "Incremental Development"
+    ]
+  },
+  {
+    "name": "Nadia",
+    "userName": "NadiaNadienka",
+    "homePage": "https://www.nadiaferreira.com/",
+    "modules": [
+      "UX/UI Design"
+    ]
+  },
+  {
+    "name": "Maël",
+    "userName": "maeligg",
+    "homePage": "https://www.maelbrunet.com/",
+    "modules": [
+      "Debugging"
     ]
   }
 ]

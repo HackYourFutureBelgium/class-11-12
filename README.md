@@ -9,6 +9,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
 <!-- BEGIN LINKS -->
 
 - [Modules](#modules)
+- [Typical Week](#typical-week)
 - [Students](#students)
 - [Coaches](#coaches)
 - [Issues](https://github.com/HackYourFutureBelgium/class-11-12/issues)
@@ -21,11 +22,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
 
 ## HYF Links
 
-- [Guidebook](https://home.hackyourfuture.be/students)
-  - HYF Routines
-  - Asking for Help
-  - Individual Assignments
-  - Group Projects
+- [Studen Guidebook](https://home.hackyourfuture.be/students)
 - [Curriculum](https://home.hackyourfuture.be/curriculum)
 - [Study](https://study.hackyourfuture.be)
 - [GitHub](https://github.com/hackyourfuturebelgium)
@@ -433,7 +430,8 @@ The more you participate and become part of the HYF community, the more people a
     <ul>
         <li><a href="https://github.com/nawatend"  target="_blank">nawatend</a></li>
         <li><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Anawatend"  target="_blank">author</a>, <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Anawatend"  target="_blank">assignee</a></li>
-<li><code>Working with Code</code></li>    </ul>
+<li><code>Working with Code</code></li>
+<li><code>Debugging</code></li>    </ul>
   </td>
 </tr></table></li>
 <li><table><tr>
@@ -476,7 +474,8 @@ The more you participate and become part of the HYF community, the more people a
         <li><a href="https://github.com/mariedevos"  target="_blank">mariedevos</a></li>
         <li><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Amariedevos"  target="_blank">author</a>, <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Amariedevos"  target="_blank">assignee</a></li>
 <li><code>Working with Code</code></li>
-<li><code>Incremental Development</code></li>    </ul>
+<li><code>Incremental Development</code></li>
+<li><code>UX/UI Design</code></li>    </ul>
   </td>
 </tr></table></li>
 <li><table><tr>
@@ -498,6 +497,26 @@ Unmesh    </h3>
         <li><a href="https://github.com/kevintss"  target="_blank">kevintss</a></li>
         <li><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Akevintss"  target="_blank">author</a>, <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Akevintss"  target="_blank">assignee</a></li>
 <li><code>Incremental Development</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./lib/avatars/coaches/NadiaNadienka.jpeg' height="150px" width="150px" alt='Nadia' /></td>
+  <td> <h3 display="inline">
+      <a href="https://www.nadiaferreira.com/"  target="_blank">Nadia</a>    </h3>
+    <ul>
+        <li><a href="https://github.com/NadiaNadienka"  target="_blank">NadiaNadienka</a></li>
+        <li><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3ANadiaNadienka"  target="_blank">author</a>, <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3ANadiaNadienka"  target="_blank">assignee</a></li>
+<li><code>UX/UI Design</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./lib/avatars/coaches/maeligg.jpeg' height="150px" width="150px" alt='Maël' /></td>
+  <td> <h3 display="inline">
+      <a href="https://www.maelbrunet.com/"  target="_blank">Maël</a>    </h3>
+    <ul>
+        <li><a href="https://github.com/maeligg"  target="_blank">maeligg</a></li>
+        <li><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Amaeligg"  target="_blank">author</a>, <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Amaeligg"  target="_blank">assignee</a></li>
+<li><code>Debugging</code></li>    </ul>
   </td>
 </tr></table></li>
 </ul></details>

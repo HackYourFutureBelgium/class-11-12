@@ -46,8 +46,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
   <ul><li><p>    1 week    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=is%3Aopen+milestone%3Aux-ui-design+label%3Aindividual" target="_blank"><code>individual</code> issues</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/3" target="_blank"><code>group</code> projects</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/3" target="_blank">all issues</a>     | <a href="https://github.com/HackYourFutureBelgium/ux-ui-design#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
 <li><h3><a href="https://github.com/HackYourFutureBelgium/debugging" target="_blank">debugging</a></h3>
   <ul><li><p>    2 weeks    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=is%3Aopen+milestone%3Adebugging+label%3Aindividual" target="_blank"><code>individual</code> issues</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/4" target="_blank"><code>group</code> projects</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/4" target="_blank">all issues</a>     | <a href="https://github.com/HackYourFutureBelgium/debugging#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
-<li><h3><a href="https://github.com/HackYourFutureBelgium/problem-solving" target="_blank">problem-solving</a></h3>
-  <ul><li><p>    3 weeks    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=is%3Aopen+milestone%3Aproblem-solving+label%3Aindividual" target="_blank"><code>individual</code> issues</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/5" target="_blank"><code>group</code> projects</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/5" target="_blank">all issues</a>     | <a href="https://github.com/HackYourFutureBelgium/problem-solving#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
+<li><h3><a href="https://github.com/HackYourFutureBelgium/behavior-strategy-implementation" target="_blank">behavior-strategy-implementation</a></h3>
+  <ul><li><p>    3 weeks    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=is%3Aopen+milestone%3Abehavior-strategy-implementation+label%3Aindividual" target="_blank"><code>individual</code> issues</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/5" target="_blank"><code>group</code> projects</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/5" target="_blank">all issues</a>     | <a href="https://github.com/HackYourFutureBelgium/behavior-strategy-implementation#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
 <li><h3><a href="https://github.com/HackYourFutureBelgium/separation-of-concerns" target="_blank">separation-of-concerns</a></h3>
   <ul><li><p>    2 weeks    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=is%3Aopen+milestone%3Aseparation-of-concerns+label%3Aindividual" target="_blank"><code>individual</code> issues</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/6" target="_blank"><code>group</code> projects</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/6" target="_blank">all issues</a>     | <a href="https://github.com/HackYourFutureBelgium/separation-of-concerns#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
 <li><h3><a href="https://github.com/HackYourFutureBelgium/state" target="_blank">state</a></h3>
@@ -517,6 +517,16 @@ Unmesh    </h3>
         <li><a href="https://github.com/maeligg"  target="_blank">maeligg</a></li>
         <li><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Amaeligg"  target="_blank">author</a>, <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Amaeligg"  target="_blank">assignee</a></li>
 <li><code>Debugging</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./lib/avatars/coaches/ThibaultLesuisse.jpeg' height="150px" width="150px" alt='Thibault' /></td>
+  <td> <h3 display="inline">
+      <a href="https://be.linkedin.com/in/thibault-lesuisse-74754b120"  target="_blank">Thibault</a>    </h3>
+    <ul>
+        <li><a href="https://github.com/ThibaultLesuisse"  target="_blank">ThibaultLesuisse</a></li>
+        <li><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3AThibaultLesuisse"  target="_blank">author</a>, <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3AThibaultLesuisse"  target="_blank">assignee</a></li>
+<li><code>Everything!</code></li>    </ul>
   </td>
 </tr></table></li>
 </ul></details>

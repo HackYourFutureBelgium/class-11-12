@@ -7,17 +7,17 @@ assignees: ''
 
 ---
 
-<!-- you will create ONE individual issue per module 
-  at the beginning of the module you will fill in Suggested Study & Exercises 
+<!-- you will create ONE individual issue per module
+  at the beginning of the module you will fill in Suggested Study & Exercises
   each week of the module you will add a new section to this ONE issue including
   - check-boxes for prep work and class work
   - checklist for the weekly project (or link to group issue)
   - wednesday check-in
-  at the end of the module, you will fill in the Retrospective section 
+  at the end of the module, you will fill in the Retrospective section
 -->
 
 <!-- include a link to this module's repository -->
-> [module repository](_) 
+> [module repository](_)
 
 ## Suggested Study
 <!-- create a checklist from the module repo README -->
@@ -36,11 +36,11 @@ assignees: ''
 - [ ] Sunday Class
 
 ### Project
-<!-- link to your week's project 
+<!-- link to your week's project
 if it's a group project
   link to the group issue
 if it's an individual project
-  copy-paste the checklist from the module README 
+  copy-paste the checklist from the module README
   fill in the checklist with your username and repo name
 -->
 
@@ -54,18 +54,3 @@ __Blocked__
 __Next Steps__
 
 __Tip(s) of the week__
-
----
-
-## Retrospective
-<!-- fill this out at the end of the module -->
-
-### What went well
-
-### What went less well
-
-### What to do differently next module
-
-### Shout-Out
-
-### Reflections

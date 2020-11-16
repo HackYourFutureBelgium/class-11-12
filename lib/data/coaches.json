@@ -84,5 +84,13 @@
     "modules": [
       "Everything!"
     ]
+  },
+  {
+    "name": "Joel",
+    "userName": "JoeCamacho",
+    "homePage": "https://github.com/JoeCamacho",
+    "modules": [
+      "Behavior, Strategy, Implementation"
+    ]
   }
 ]

@@ -529,6 +529,16 @@ Unmesh    </h3>
 <li><code>Everything!</code></li>    </ul>
   </td>
 </tr></table></li>
+<li><table><tr>
+  <td><img src='./lib/avatars/coaches/JoeCamacho.jpeg' height="150px" width="150px" alt='Joel' /></td>
+  <td> <h3 display="inline">
+      <a href="https://github.com/JoeCamacho"  target="_blank">Joel</a>    </h3>
+    <ul>
+        <li><a href="https://github.com/JoeCamacho"  target="_blank">JoeCamacho</a></li>
+        <li><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3AJoeCamacho"  target="_blank">author</a>, <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3AJoeCamacho"  target="_blank">assignee</a></li>
+<li><code>Behavior, Strategy, Implementation</code></li>    </ul>
+  </td>
+</tr></table></li>
 </ul></details>
 
 

@@ -86,15 +86,17 @@ Using a stepper variable in a loop is such a common use case that the `for` loop
 ```js
 'use strict';
 
-const toRepeat = '_';
 const totalRepetitions = 4;
 
-let repeatedString = '';
+const toRepeat = 'howdy';
+console.log('toRepeat:', toRepeat);
 
-// fill in the _ of the loophead using an existing variable
-for (_; i < _; _) {
-  repeatedString += _;
-  console.log(repeatedString);
+let repeatedString = '';
+console.log('repeatedString:', repeatedString);
+
+for (let i = 0; i < totalRepetitions; i++) {
+  repeatedString += toRepeat;
+  console.log('repeatedString:', repeatedString);
 }
 
 console.assert(

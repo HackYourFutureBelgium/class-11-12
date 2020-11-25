@@ -8,6 +8,8 @@
       "active": true,
       "max": 50
     },
-    "openIn": "jsTutorLive"
+    "openIn": "jsTutorLive",
+    "save": true,
+    "flowchart": true
   }
 }

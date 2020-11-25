@@ -107,6 +107,9 @@ console.assert(
 
 ## Exercises
 
+<details>
+<summary>reverse a string</summary>
+
 ```js
 'use strict';
 
@@ -129,6 +132,12 @@ console.assert(
   'reversed string is the original reversed'
 );
 ```
+
+</details>
+<br>
+
+<details>
+<summary>reverse an array</summary>
 
 ```js
 'use strict';
@@ -154,5 +163,8 @@ console.assert(
   'reversed string is the original reversed'
 );
 ```
+
+</details>
+<br>
 
 [TOP](for-loops)

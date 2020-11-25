@@ -1,0 +1,13 @@
+{
+  "--defaults": {
+    ".md": "study"
+  },
+  "study": {
+    "eval": true,
+    "loopGuard": {
+      "active": true,
+      "max": 50
+    },
+    "openIn": "jsTutorLive"
+  }
+}

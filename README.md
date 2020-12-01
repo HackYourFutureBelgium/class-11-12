@@ -22,7 +22,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
 
 ## HYF Links
 
-- [Studen Guidebook](https://home.hackyourfuture.be/students)
+- [Student Guidebook](https://home.hackyourfuture.be/students)
 - [Curriculum](https://home.hackyourfuture.be/curriculum)
 - [Study](https://study.hackyourfuture.be)
 - [GitHub](https://github.com/hackyourfuturebelgium)

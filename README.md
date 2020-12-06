@@ -103,7 +103,7 @@ The more you participate and become part of the HYF community, the more people a
 - Begin developing the project
 - Individual study
 
-### Wendesday
+### Wednesday
 
 - `individual` check-in
 - Class review call

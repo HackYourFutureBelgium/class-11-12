@@ -23,6 +23,7 @@ for (initialization; condition; finalExpression) {
 
 <details>
 <summary>explanation</summary>
+<br>
 
 The correct answer is `2`.
 

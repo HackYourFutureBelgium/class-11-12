@@ -3,94 +3,72 @@
     "name": "Nawang",
     "userName": "nawatend",
     "homePage": "https://www.nawangtendar.be",
-    "modules": [
-      "Working with Code",
-      "Debugging"
-    ]
+    "modules": ["Working with Code", "Debugging"]
   },
   {
     "name": "Tamar",
     "userName": "talmurshidi",
     "homePage": "https://www.linkedin.com/in/talmurhsidi",
-    "modules": [
-      "Working with Code"
-    ]
+    "modules": ["Working with Code"]
   },
   {
     "name": "Stéphane",
     "userName": "snicoll",
     "homePage": "https://about.me/snicoll",
-    "modules": [
-      "Working with Code",
-      "Incremental Development"
-    ]
+    "modules": ["Working with Code", "Incremental Development"]
   },
   {
     "name": "Tiago",
     "userName": "otagi",
     "homePage": "https://www.mendes-costa.net/",
-    "modules": [
-      "Working with Code",
-      "Incremental Development"
-    ]
+    "modules": ["Working with Code", "Incremental Development"]
   },
   {
     "name": "Marie",
     "userName": "mariedevos",
     "imgURL": "https://mir-s3-cdn-cf.behance.net/user/230/7de49699884997.5e480bcfae8eb.jpg",
     "homePage": "https://www.behance.net/mariedevos",
-    "modules": [
-      "Working with Code",
-      "Incremental Development",
-      "UX/UI Design"
-    ]
+    "modules": ["Working with Code", "Incremental Development", "UX/UI Design"]
   },
   {
     "name": "Unmesh",
     "userName": "unmeshvrije",
-    "modules": [
-      "Working with Code",
-      "Incremental Development"
-    ]
+    "modules": ["Working with Code", "Incremental Development"]
   },
   {
     "name": "Kevin",
     "userName": "kevintss",
     "homePage": "https://kevintss.github.io/",
-    "modules": [
-      "Incremental Development"
-    ]
+    "modules": ["Incremental Development"]
   },
   {
     "name": "Nadia",
     "userName": "NadiaNadienka",
     "homePage": "https://www.nadiaferreira.com/",
-    "modules": [
-      "UX/UI Design"
-    ]
+    "modules": ["UX/UI Design"]
   },
   {
     "name": "Maël",
     "userName": "maeligg",
     "homePage": "https://www.maelbrunet.com/",
-    "modules": [
-      "Debugging"
-    ]
+    "modules": ["Debugging"]
   },
   {
     "name": "Thibault",
     "userName": "ThibaultLesuisse",
     "homePage": "https://be.linkedin.com/in/thibault-lesuisse-74754b120",
-    "modules": [
-      "Everything!"
-    ]
+    "modules": ["Everything!"]
   },
   {
     "name": "Joel",
     "userName": "JoeCamacho",
     "homePage": "https://github.com/JoeCamacho",
-    "modules": [
-      "Behavior, Strategy, Implementation"
-    ]
+    "modules": ["Behavior, Strategy, Implementation"]
+  },
+  {
+    "name": "Koen",
+    "userName": "koenvd",
+    "homePage": "https://github.com/koenvd",
+    "modules": ["Separation of Concerns"]
   }
 ]

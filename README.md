@@ -229,16 +229,6 @@ The more you participate and become part of the HYF community, the more people a
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/himanshisaxena.jpeg' height="150px" width="150px" alt='himanshisaxena github photo' /></td>
-  <td> <h3 display="inline"><a href="https://himanshisaxena.github.io" target="_blank">Himanshi</a></h3>
-    <ul>
-        <li><a href="https://github.com/himanshisaxena"  target="_blank">himanshisaxena</a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Ahimanshisaxena"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Ahimanshisaxena"  target="_blank">assignee</a></code></li>
-    </ul>
-  </td>
-</tr></table> </li>
-<li><table> <tr>
   <td><img src='./lib/avatars/students/jraoul2002.jpeg' height="150px" width="150px" alt='jraoul2002 github photo' /></td>
   <td> <h3 display="inline"><a href="https://jraoul2002.github.io" target="_blank">Raoul</a></h3>
     <ul>
@@ -359,16 +349,6 @@ The more you participate and become part of the HYF community, the more people a
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/Atinos31.jpeg' height="150px" width="150px" alt='Atinos31 github photo' /></td>
-  <td> <h3 display="inline"><a href="https://Atinos31.github.io" target="_blank">Sandra</a></h3>
-    <ul>
-        <li><a href="https://github.com/Atinos31"  target="_blank">Atinos31</a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3AAtinos31"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3AAtinos31"  target="_blank">assignee</a></code></li>
-    </ul>
-  </td>
-</tr></table> </li>
-<li><table> <tr>
   <td><img src='./lib/avatars/students/sharafcs50.jpeg' height="150px" width="150px" alt='sharafcs50 github photo' /></td>
   <td> <h3 display="inline"><a href="https://sharafcs50.github.io" target="_blank">Sharaf</a></h3>
     <ul>
@@ -385,16 +365,6 @@ The more you participate and become part of the HYF community, the more people a
         <li><a href="https://github.com/solomunwelday"  target="_blank">solomunwelday</a></li>
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Asolomunwelday"  target="_blank">author</a></code></li>
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Asolomunwelday"  target="_blank">assignee</a></code></li>
-    </ul>
-  </td>
-</tr></table> </li>
-<li><table> <tr>
-  <td><img src='./lib/avatars/students/sabanyelkenci.jpeg' height="150px" width="150px" alt='sabanyelkenci github photo' /></td>
-  <td> <h3 display="inline"><a href="https://sabanyelkenci.github.io" target="_blank">Şaban</a></h3>
-    <ul>
-        <li><a href="https://github.com/sabanyelkenci"  target="_blank">sabanyelkenci</a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Asabanyelkenci"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Asabanyelkenci"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> </li>
@@ -537,6 +507,16 @@ Unmesh    </h3>
         <li><a href="https://github.com/JoeCamacho"  target="_blank">JoeCamacho</a></li>
         <li><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3AJoeCamacho"  target="_blank">author</a>, <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3AJoeCamacho"  target="_blank">assignee</a></li>
 <li><code>Behavior, Strategy, Implementation</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./lib/avatars/coaches/koenvd.jpeg' height="150px" width="150px" alt='Koen' /></td>
+  <td> <h3 display="inline">
+      <a href="https://github.com/koenvd"  target="_blank">Koen</a>    </h3>
+    <ul>
+        <li><a href="https://github.com/koenvd"  target="_blank">koenvd</a></li>
+        <li><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Akoenvd"  target="_blank">author</a>, <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Akoenvd"  target="_blank">assignee</a></li>
+<li><code>Separation of Concerns</code></li>    </ul>
   </td>
 </tr></table></li>
 </ul></details>

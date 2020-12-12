@@ -10,9 +10,9 @@ assignees: ''
 <!-- you will create ONE individual issue per module
   at the beginning of the module you will fill in Suggested Study & Exercises
   each week of the module you will add a new section to this ONE issue including
-  - check-boxes for prep work and class work
+  - check-boxes for prep work and classwork
   - checklist for the weekly project (or link to group issue)
-  - wednesday check-in
+  - Wednesday check-in
   at the end of the module, you will fill in the Retrospective section
 -->
 

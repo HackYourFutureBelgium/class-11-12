@@ -37,7 +37,7 @@ for (
   // 3, 6, 9, 12: check if `step` is less than 3
   step < 3; // condition
   // 5, 8, 11: add 1 to `step`
-  step++ // step
+  step++ // finalExpression
 ) {
   // 4, 7, 10: log the current value of `step`
   console.log(step);

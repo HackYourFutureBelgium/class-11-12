@@ -209,16 +209,6 @@ The more you participate and become part of the HYF community, the more people a
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/emelysalmeron.jpeg' height="150px" width="150px" alt='emelysalmeron github photo' /></td>
-  <td> <h3 display="inline"><a href="https://emelysalmeron.github.io" target="_blank">Emely Roxana</a></h3>
-    <ul>
-        <li><a href="https://github.com/emelysalmeron"  target="_blank">emelysalmeron</a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Aemelysalmeron"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Aemelysalmeron"  target="_blank">assignee</a></code></li>
-    </ul>
-  </td>
-</tr></table> </li>
-<li><table> <tr>
   <td><img src='./lib/avatars/students/Houcinos.jpeg' height="150px" width="150px" alt='Houcinos github photo' /></td>
   <td> <h3 display="inline"><a href="https://Houcinos.github.io" target="_blank">Houcine</a></h3>
     <ul>
@@ -269,16 +259,6 @@ The more you participate and become part of the HYF community, the more people a
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/lauraramirez220612.jpeg' height="150px" width="150px" alt='lauraramirez220612 github photo' /></td>
-  <td> <h3 display="inline"><a href="https://lauraramirez220612.github.io" target="_blank">Laura Alicia</a></h3>
-    <ul>
-        <li><a href="https://github.com/lauraramirez220612"  target="_blank">lauraramirez220612</a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Alauraramirez220612"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Alauraramirez220612"  target="_blank">assignee</a></code></li>
-    </ul>
-  </td>
-</tr></table> </li>
-<li><table> <tr>
   <td><img src='./lib/avatars/students/Cyngyz.jpeg' height="150px" width="150px" alt='Cyngyz github photo' /></td>
   <td> <h3 display="inline"><a href="https://Cyngyz.github.io" target="_blank">Lo</a></h3>
     <ul>
@@ -315,16 +295,6 @@ The more you participate and become part of the HYF community, the more people a
         <li><a href="https://github.com/peymanshahmarimikaeeldarehsi"  target="_blank">peymanshahmarimikaeeldarehsi</a></li>
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Apeymanshahmarimikaeeldarehsi"  target="_blank">author</a></code></li>
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Apeymanshahmarimikaeeldarehsi"  target="_blank">assignee</a></code></li>
-    </ul>
-  </td>
-</tr></table> </li>
-<li><table> <tr>
-  <td><img src='./lib/avatars/students/Preeti-t.jpeg' height="150px" width="150px" alt='Preeti-t github photo' /></td>
-  <td> <h3 display="inline"><a href="https://Preeti-t.github.io" target="_blank">Preeti</a></h3>
-    <ul>
-        <li><a href="https://github.com/Preeti-t"  target="_blank">Preeti-t</a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3APreeti-t"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3APreeti-t"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> </li>

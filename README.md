@@ -1,10 +1,12 @@
 <!-- BEGIN HEADER -->
+
 # class-11-12
+
 <!-- END HEADER -->
 
 This repository is yours to keep track of what you've covered so far, to get to know each other, to share helpful resources, to practice collaboration workflows, ... to do everything!
 
-Slack is great for chatting but links and good explanations can easily get lost in message history.  Think of this repository as your class' forum and home page.
+Slack is great for chatting but links and good explanations can easily get lost in message history. Think of this repository as your class' forum and home page.
 
 <!-- BEGIN LINKS -->
 
@@ -13,8 +15,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
 - [Students](#students)
 - [Coaches](#coaches)
 - [Issues](https://github.com/HackYourFutureBelgium/class-11-12/issues)
-    - [`help-wanted`](https://github.com/HackYourFutureBelgium/class-11-12/issues?q=is%3Aopen+label%3Ahelp-wanted)
-    - [`roll-call`](https://github.com/HackYourFutureBelgium/class-11-12/issues?q=label%3Aroll-call)
+  - [`help-wanted`](https://github.com/HackYourFutureBelgium/class-11-12/issues?q=is%3Aopen+label%3Ahelp-wanted)
+  - [`roll-call`](https://github.com/HackYourFutureBelgium/class-11-12/issues?q=label%3Aroll-call)
 - [Pull Requests](https://github.com/HackYourFutureBelgium/class-11-12/pulls)
 - [Shared Notes](./shared-notes)
 
@@ -30,6 +32,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
 ---
 
 <!-- BEGIN MODULES -->
+
 ## Modules
 
 <details open>
@@ -66,8 +69,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
   <ul><li><p>    6 weeks    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=is%3Aopen+milestone%3Aagile-development+label%3Aindividual" target="_blank"><code>individual</code> issues</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/13" target="_blank"><code>group</code> projects</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/13" target="_blank">all issues</a>     | <a href="https://github.com/HackYourFutureBelgium/agile-development#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
 </ol></details>
 
-
 [TOP](#class-11-12)
+
 <!-- END MODULES -->
 
 ---
@@ -132,6 +135,7 @@ The more you participate and become part of the HYF community, the more people a
 ---
 
 <!-- BEGIN STUDENTS -->
+
 ## Students
 
 <details open>
@@ -350,8 +354,8 @@ The more you participate and become part of the HYF community, the more people a
 </tr></table> </li>
 </ul></details>
 
-
 [TOP](#class-11-12)
+
 <!-- END STUDENTS -->
 
 ---
@@ -426,7 +430,9 @@ Unmesh    </h3>
         <li><a href="https://github.com/unmeshvrije"  target="_blank">unmeshvrije</a></li>
         <li><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Aunmeshvrije"  target="_blank">author</a>, <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Aunmeshvrije"  target="_blank">assignee</a></li>
 <li><code>Working with Code</code></li>
-<li><code>Incremental Development</code></li>    </ul>
+<li><code>Incremental Development</code></li>
+<li><code>State</code></li>
+<li><code>Encapsulation</code></li>    </ul>
   </td>
 </tr></table></li>
 <li><table><tr>
@@ -489,9 +495,18 @@ Unmesh    </h3>
 <li><code>Separation of Concerns</code></li>    </ul>
   </td>
 </tr></table></li>
+<li><table><tr>
+  <td><img src='./lib/avatars/coaches/yash-kapila.jpeg' height="150px" width="150px" alt='Yash' /></td>
+  <td> <h3 display="inline">
+      <a href="https://github.com/yash-kapila"  target="_blank">Yash</a>    </h3>
+    <ul>
+        <li><a href="https://github.com/yash-kapila"  target="_blank">yash-kapila</a></li>
+        <li><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Ayash-kapila"  target="_blank">author</a>, <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Ayash-kapila"  target="_blank">assignee</a></li>
+<li><code>Encapsulation</code></li>    </ul>
+  </td>
+</tr></table></li>
 </ul></details>
 
 
 [TOP](#class-11-12)
 <!-- END COACHES -->
-

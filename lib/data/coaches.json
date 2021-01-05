@@ -33,7 +33,12 @@
   {
     "name": "Unmesh",
     "userName": "unmeshvrije",
-    "modules": ["Working with Code", "Incremental Development"]
+    "modules": [
+      "Working with Code",
+      "Incremental Development",
+      "State",
+      "Encapsulation"
+    ]
   },
   {
     "name": "Kevin",
@@ -70,5 +75,11 @@
     "userName": "koenvd",
     "homePage": "https://github.com/koenvd",
     "modules": ["Separation of Concerns"]
+  },
+  {
+    "name": "Yash",
+    "userName": "yash-kapila",
+    "homePage": "https://github.com/yash-kapila",
+    "modules": ["Encapsulation"]
   }
 ]

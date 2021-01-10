@@ -7,6 +7,14 @@ assignees: ''
 
 ---
 
+<!--
+  make this issue easy to find:
+
+  - label: `week-x`
+  - milestone: the current module
+-->
+
+
 ## Roll Call!
 
 Leave us a comment with these two things:

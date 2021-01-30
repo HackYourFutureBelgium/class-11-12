@@ -81,5 +81,11 @@
     "userName": "yash-kapila",
     "homePage": "https://github.com/yash-kapila",
     "modules": ["Encapsulation"]
+  },
+  {
+    "name": "Bram",
+    "userName": "bramdevries",
+    "homePage": "https://github.com/bramdevries",
+    "modules": ["Asynchronous Programming"]
   }
 ]

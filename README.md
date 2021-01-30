@@ -505,6 +505,16 @@ Unmesh    </h3>
 <li><code>Encapsulation</code></li>    </ul>
   </td>
 </tr></table></li>
+<li><table><tr>
+  <td><img src='./lib/avatars/coaches/bramdevries.jpeg' height="150px" width="150px" alt='Bram' /></td>
+  <td> <h3 display="inline">
+      <a href="https://github.com/bramdevries"  target="_blank">Bram</a>    </h3>
+    <ul>
+        <li><a href="https://github.com/bramdevries"  target="_blank">bramdevries</a></li>
+        <li><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Abramdevries"  target="_blank">author</a>, <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Abramdevries"  target="_blank">assignee</a></li>
+<li><code>Asynchronous Programming</code></li>    </ul>
+  </td>
+</tr></table></li>
 </ul></details>
 
 

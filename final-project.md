@@ -63,6 +63,10 @@ Here’s all the practical information about it.
 
 - **Jan Vanbuel**: technical support for deployment & CI/CD
 
+## Expectations for you, students
+
+This will be a whole adventure on improving both your soft skills and technical skills. The process is as important (or even more!) as the result. Find all information and resources for students here: https://github.com/HackYourFutureBelgium/home/blob/master/curriculum/final-project/for-students/README.md
+
 ## Milestones
 
 You can find all details on which Milestones to conquer here: https://home.hackyourfuture.be/curriculum/final-project/milestones

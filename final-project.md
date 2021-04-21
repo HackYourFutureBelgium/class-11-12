@@ -27,7 +27,7 @@ Here’s all the practical information about it.
 
 - [Wednesday 26 May - 17:00](https://us02web.zoom.us/j/85170196976?pwd=Y1FWMExwRXFiZllXTlBIZ2RLU0lXQT09) Soft Skills by [Aline Durand](https://share.emakina.net/display/~adurand)
 
-## Groups
+## Student Teams
 
 ### Group 1
 

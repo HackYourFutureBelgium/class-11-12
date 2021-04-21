@@ -16,10 +16,10 @@ for (initialization; condition; finalExpression) {
 }
 ```
 
-1. declare a variable, modify the variable, check the variable.
-2. declare a variable, check the variable, modify the variable.
-3. check the variable, modify the variable, declare a variable.
-4. check the variable, declare a variable, modify the variable.
+1. declare a variable, update the variable, check a condition.
+2. declare a variable, check a condition, update the variable.
+3. check a condition, update the variable, declare a variable.
+4. check a condition, declare a variable, update the variable.
 
 <details>
 <summary>explanation</summary>
@@ -28,9 +28,6 @@ for (initialization; condition; finalExpression) {
 The correct answer is `2`.
 
 ```js
-// 1: avoid avoidable mistakes
-'use strict';
-
 for (
   // 2: declare and assign the `step` variable
   let step = 0; // initialization
@@ -54,12 +51,10 @@ Another good way to understand how `for` loops work is to compare them to a whil
 Notice how `stepWhile` and `stepFor` are scoped differently in your debugger or Js Tutor. `stepWhile` is available to the entire script, `stepFor` is only available inside the for loop:
 
 ```js
-'use strict';
-
 // these two loops will behave the same
 // which do you find easier to read?
 
-const maximum = 3;
+let maximum = 3;
 
 let stepWhile = 0;
 while (stepWhile < maximum) {
@@ -85,11 +80,9 @@ Stepper Variables change systematically, going through a series of values to man
 Using a stepper variable in a loop is such a common use case that the `for` loop was designed to make it part of the language.
 
 ```js
-'use strict';
+let totalRepetitions = 4;
 
-const totalRepetitions = 4;
-
-const toRepeat = 'howdy';
+let toRepeat = 'howdy';
 console.log('toRepeat:', toRepeat);
 
 let repeatedString = '';
@@ -114,18 +107,16 @@ console.assert(
 <summary>reverse a string</summary>
 
 ```js
-'use strict';
-
 // reverse a string
 
-const originalString = 'jklm';
+let originalString = 'jklm';
 console.log('originalString:', originalString);
 
 let reversedString = '';
 console.log('reversedString:', reversedString);
 
 for (_; _; _) {
-  const nextLetter = _;
+  let nextLetter = _;
   reversedString = _ + _;
   console.log('reversedString:', reversedString);
 }
@@ -143,23 +134,21 @@ console.assert(
 <summary>reverse an array</summary>
 
 ```js
-'use strict';
-
 // reverse an array
 
-const originalArray = ['j', 'k', 'l', 'm'];
+let originalArray = ['j', 'k', 'l', 'm'];
 console.log('originalArray:', originalArray);
 
-const reversedArray = [];
+let reversedArray = [];
 console.log('reversedArray:', reversedArray);
 
 for (_; _; _) {
-  const nextLetter = _;
+  let nextLetter = _;
   reversedArray._(_);
   console.log('reversedArray:', reversedArray);
 }
 
-const joinedArray = reversedArray.join('');
+let joinedArray = reversedArray.join('');
 
 console.assert(
   joinedArray === 'mlkj',

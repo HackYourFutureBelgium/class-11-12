@@ -27,7 +27,9 @@ Here’s all the practical information about it.
 
 - [Wednesday 26 May - 17:00](https://us02web.zoom.us/j/85170196976?pwd=Y1FWMExwRXFiZllXTlBIZ2RLU0lXQT09) Soft Skills by [Aline Durand](https://share.emakina.net/display/~adurand)
 
-## Group 1
+## Groups
+
+### Group 1
 
 - **Coach**: Dirk Jacobs
 - **students**:
@@ -37,7 +39,7 @@ Here’s all the practical information about it.
   - Patrick
   - Sharaf
 
-## Group 2
+### Group 2
 
 - **Coach**: Anthony Meirlaen
 - **students**:
@@ -47,7 +49,7 @@ Here’s all the practical information about it.
   - Divya
   - Raoul
 
-## Group 3
+### Group 3
 
 - **Coaches** (Emakina): Chris Schryvers & Jeffrey Vandenbossche
 - **Students**:
@@ -57,6 +59,23 @@ Here’s all the practical information about it.
   - Samir
   - Tahmina
 
-## Extra Coach for assistance during the week
+### Extra Coach for assistance during the week
 
 - **Jan Vanbuel**: technical support for deployment & CI/CD
+
+## Milestones
+
+You can find all details on which Milestones to conquer here: https://home.hackyourfuture.be/curriculum/final-project/milestones
+
+## Deliverables
+
+What should you deliver after 6 weeks of hard work?
+Discover it here: https://home.hackyourfuture.be/curriculum/final-project/deliverables
+
+## DemoDay
+
+Since Covid19 is challenging our flexibility and perseverance, we can't tell just yet whether we'll be able to organise a DemoDay in person or online.
+This will be confirmed as soon as possible, mid May the latest.
+What we can already tell is the date!
+
+### Save the date: Tuesday 1st of June at 19:00

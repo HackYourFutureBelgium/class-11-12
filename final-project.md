@@ -31,7 +31,7 @@ Here’s all the practical information about it.
 
 ### Group 1
 
-- **Coach**: Dirk Jacobs & Anthony Meirlaen
+- **Coach**: (Emakina): Chris Schryvers & Jeffrey Vandenbossche
 - **students**:
   - Burak
   - Krystyna
@@ -43,7 +43,7 @@ Here’s all the practical information about it.
 
 ### Group 2
 
-- **Coach**: (Emakina): Chris Schryvers & Jeffrey Vandenbossche
+- **Coach**: Dirk Jacobs & Anthony Meirlaen
 - **students**:
   - Samir
   - Bermarte

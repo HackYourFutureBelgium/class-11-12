@@ -31,33 +31,29 @@ Here’s all the practical information about it.
 
 ### Group 1
 
-- **Coach**: Dirk Jacobs
+- **Coach**: Dirk Jacobs & Anthony Meirlaen
 - **students**:
   - Burak
   - Krystyna
   - Liubov
   - Patrick
-  - Sharaf
+  - Tahmina
+  - Houcine
+  - Raoul
 
 ### Group 2
 
-- **Coach**: Anthony Meirlaen
+- **Coach**: (Emakina): Chris Schryvers & Jeffrey Vandenbossche
 - **students**:
-  - Anisya
-  - Bermarte
-  - Brain
-  - Divya
-  - Raoul
-
-### Group 3
-
-- **Coaches** (Emakina): Chris Schryvers & Jeffrey Vandenbossche
-- **Students**:
-  - Houcine
-  - Kemi
-  - Peyman
   - Samir
-  - Tahmina
+  - Bermarte
+  - Anisya
+  - Divya
+  - Kemi
+  - Brain
+  - Peyman
+  - Sharaf
+
 
 ### Extra Coach for assistance during the week
 

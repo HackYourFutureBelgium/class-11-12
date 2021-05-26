@@ -78,4 +78,11 @@ Since Covid19 is challenging our flexibility and perseverance, we can't tell jus
 This will be confirmed as soon as possible, mid May the latest.
 What we can already tell is the date!
 
+> You can use these guidelines to prepare your presentation (15min. max):
+ - Part 1: Team introduction & show your video
+ - Part 2: Demo.  (Practice demoing the features you will showcase, make sure they work!)
+ - Part 3: More info (don’t get too technical). Where can someone go to learn more about your project? Share the repo/README, documentation & contributor’s guidelines
+ - Part 4: Personal experience:  Each team member has a few minutes to share what they learned, what they liked (or didn’t), which parts they worked on, what’s next, thankful words to the team!
+
+
 ### Save the date: Tuesday 1st of June at 19:00

@@ -27,36 +27,62 @@ Here’s all the practical information about it.
 
 - [Wednesday 26 May - 17:00](https://us02web.zoom.us/j/85170196976?pwd=Y1FWMExwRXFiZllXTlBIZ2RLU0lXQT09) Soft Skills by [Aline Durand](https://share.emakina.net/display/~adurand)
 
-## Group 1
+## Student Teams
 
-- **Coach**: Dirk Jacobs
+### Group 1
+
+- **Coach**: (Emakina): Chris Schryvers & Jeffrey Vandenbossche
 - **students**:
   - Burak
   - Krystyna
   - Liubov
   - Patrick
-  - Sharaf
-
-## Group 2
-
-- **Coach**: Anthony Meirlaen
-- **students**:
-  - Anisya
-  - Bermarte
-  - Brain
-  - Divya
+  - Tahmina
+  - Houcine
   - Raoul
 
-## Group 3
+### Group 2
 
-- **Coaches** (Emakina): Chris Schryvers & Jeffrey Vandenbossche
-- **Students**:
-  - Houcine
-  - Kemi
-  - Peyman
+- **Coach**: Dirk Jacobs & Anthony Meirlaen
+- **students**:
   - Samir
-  - Tahmina
+  - Bermarte
+  - Anisya
+  - Divya
+  - Kemi
+  - Brain
+  - Peyman
+  - Sharaf
 
-## Extra Coach for assistance during the week
+
+### Extra Coach for assistance during the week
 
 - **Jan Vanbuel**: technical support for deployment & CI/CD
+
+## Expectations for you, students
+
+This will be a whole adventure on improving both your soft skills and technical skills. The process is as important (or even more!) as the result. Find all information and resources for students here: https://github.com/HackYourFutureBelgium/home/blob/master/curriculum/final-project/for-students/README.md
+
+## Milestones
+
+You can find all details on which Milestones to conquer here: https://home.hackyourfuture.be/curriculum/final-project/milestones
+
+## Deliverables
+
+What should you deliver after 6 weeks of hard work?
+Discover it here: https://home.hackyourfuture.be/curriculum/final-project/deliverables
+
+## DemoDay
+
+Since Covid19 is challenging our flexibility and perseverance, we can't tell just yet whether we'll be able to organise a DemoDay in person or online.
+This will be confirmed as soon as possible, mid May the latest.
+What we can already tell is the date!
+
+> You can use these guidelines to prepare your presentation (15min. max):
+ - Part 1: Team introduction & show your video
+ - Part 2: Demo.  (Practice demoing the features you will showcase, make sure they work!)
+ - Part 3: More info (don’t get too technical). Where can someone go to learn more about your project? Share the repo/README, documentation & contributor’s guidelines
+ - Part 4: Personal experience:  Each team member has a few minutes to share what they learned, what they liked (or didn’t), which parts they worked on, what’s next, thankful words to the team!
+
+
+### Save the date: Tuesday 1st of June at 19:00
